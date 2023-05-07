@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Dennis / Emadiong / 
+Dennis / Emadiong / Dorine
 
 ## License
 Public Domain. No copy write protection. 
